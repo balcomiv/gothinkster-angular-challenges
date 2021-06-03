@@ -32,4 +32,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Help
 
+## CSS Grid
+
 - [CSS Grid Cheat Sheet](https://grid.malven.co/)
+
+## Font Awesome
+
+- https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=info
