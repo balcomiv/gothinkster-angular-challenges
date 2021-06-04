@@ -32,7 +32,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Help
 
-## Pluralsight
+## Commands
+
+- `npx -p @angular/cli ng new <proj-name> --strict --routing --style=scss`
+- `npx sb init`
+- `ng add @briebug/cypress-schematic`
+
+## Course
 
 - [Github Repo](https://github.com/PizzaPokerGuy/100-angular-challenges/tree/master/src/app/components)
 
