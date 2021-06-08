@@ -51,3 +51,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Font Awesome
 
 - https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=info
+
+## Storybook
+
+- [Design System Github Rep](https://github.com/storybookjs/design-system/blob/master/src/Intro.stories.mdx)
