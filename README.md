@@ -55,3 +55,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Storybook
 
 - [Design System Github Rep](https://github.com/storybookjs/design-system/blob/master/src/Intro.stories.mdx)
+
+## Github Pages
+
+- https://dev.to/kouts/deploy-storybook-to-github-pages-3bij
