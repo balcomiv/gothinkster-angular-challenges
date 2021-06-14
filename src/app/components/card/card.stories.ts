@@ -25,5 +25,5 @@ const template: Story<CardComponent> = (args: CardComponent) => ({
   },
 });
 
-export const card: Story<CardComponent> = template.bind({});
-card.args = {};
+export const basic: Story<CardComponent> = template.bind({});
+basic.args = {};

@@ -3,7 +3,7 @@ import { Meta, Story } from '@storybook/angular/types-6-0';
 import { ToolbarComponent } from './toolbar.component';
 
 export default {
-  title: '100 Angular Challenges / Toolbar',
+  title: '100 Angular Challenges/Toolbar',
   component: ToolbarComponent,
   decorators: [
     moduleMetadata({
@@ -30,5 +30,5 @@ const template: Story<ToolbarComponent> = (args: ToolbarComponent) => ({
   },
 });
 
-export const toolbar: Story<ToolbarComponent> = template.bind({});
-toolbar.args = {};
+export const basic: Story<ToolbarComponent> = template.bind({});
+basic.args = {};
