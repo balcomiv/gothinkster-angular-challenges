@@ -30,5 +30,5 @@ const template: Story<ToolbarComponent> = (args: ToolbarComponent) => ({
   },
 });
 
-export const basic: Story<ToolbarComponent> = template.bind({});
-basic.args = {};
+export const toolbar: Story<ToolbarComponent> = template.bind({});
+toolbar.args = {};
